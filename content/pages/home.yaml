@@ -1,0 +1,8 @@
+---
+$path: /
+$view: content/pages/home.html
+
+hero:
+  header: hero header
+  text: >
+    lorem ipsum
