@@ -2,14 +2,66 @@
 
 {% block main %}
 
-<div class="hero">
-  {% set hero = doc.hero %}
+<div class="intro mdl-typography--text-center">
+  {% set intro = doc.intro %}
   <h1>
-    {{hero.header}}
+    {{intro.header}}
   </h1>
   <p>
-    {{hero.text}}
+    {{intro.text}}
   </p>
+</div>
+  
+<div class="about mdl-grid">
+  {% set about = doc.about %}
+  <div class="left mdl-cell mdl-cell--6-col">
+    <h1>
+      {{about.left.header}}
+    </h1>
+    <p>
+      {{about.left.text}}
+    </p>
+  </div>
+  <div class="right mdl-cell mdl-cell--6-col">
+    <h1>
+      {{about.right.header}}
+    </h1>
+    <p>
+      {{about.right.text}}
+    </p>
+  </div>
+</div>
+
+<div>
+  Iframe with embedded Google Map goes here.
+</div>
+  
+<div class="travel mdl-grid">
+  {% set travel = doc.travel %}
+  <div class="mdl-cell mdl-cell--4-col">
+    <h2>
+      {{travel.fly.header}}
+    </h2>
+    <p>
+      {{travel.fly.text}}
+    </p>
+  </div>
+  <div class="mdl-cell mdl-cell--4-col">
+    <h2>
+      {{travel.drive.header}}
+    </h2>
+    <p>
+      {{travel.drive.text}}
+    </p>
+  </div>
+  <div class="mdl-cell mdl-cell--4-col">
+    <h2>
+      {{travel.stay.header}}
+    </h2>
+    <p>
+      {{travel.stay.text}}
+    </p>
+  </div>
 </div>
 
 {% endblock %}
