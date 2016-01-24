@@ -1,0 +1,32 @@
+---
+$path: /details/
+$view: content/pages/details.html
+
+location:
+  header: Calistoga Hot Springs
+  text: >
+    4:00pm, Saturday, July 1st, 2016
+
+travel:
+  drive:
+    header: Drive
+    text: >
+      Vroom vroom Maecenas a iaculis sapien. Aliquam erat volutpat. Vestibulum id mollis diam. Sed ut lorem a
+      lectus commodo pretium. 
+  fly:
+    header: Fly
+    text: >
+      FWOOOOOOSHHHH Maecenas a iaculis sapien. Aliquam erat volutpat. Vestibulum id mollis diam. Sed ut lorem a
+      lectus commodo pretium. 
+  stay:
+    header: Stay
+    text: >
+      zzzzzzzzzzzzzzzz Maecenas a iaculis sapien. Aliquam erat volutpat. Vestibulum id mollis diam. Sed ut lorem a
+      lectus commodo pretium. 
+
+registry:
+  header: Registry
+  text: >
+    Fusce convallis, erat eget sollicitudin convallis, ante ex cursus risus, eu rhoncus purus justo
+    eu augue. Pellentesque in pharetra ligula. Cum sociis natoque penatibus et magnis dis parturient
+    montes, nascetur ridiculus mus.

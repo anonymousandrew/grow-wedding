@@ -25,21 +25,3 @@ about:
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ac efficitur enim. Aenean quis
       elit porttitor, imperdiet massa quis, elementum leo. Vivamus tempor, lectus mollis dignissim
       faucibus, augue turpis imperdiet magna, in fermentum ex augue ac neque. 
-
-travel:
-  header: Travel
-  fly:
-    header: Fly
-    text: >
-      Maecenas a iaculis sapien. Aliquam erat volutpat. Vestibulum id mollis diam. Sed ut lorem a
-      lectus commodo pretium. 
-  drive:
-    header: Drive
-    text: >
-      Maecenas a iaculis sapien. Aliquam erat volutpat. Vestibulum id mollis diam. Sed ut lorem a
-      lectus commodo pretium. 
-  stay:
-    header: Stay
-    text: >
-      Maecenas a iaculis sapien. Aliquam erat volutpat. Vestibulum id mollis diam. Sed ut lorem a
-      lectus commodo pretium. 
