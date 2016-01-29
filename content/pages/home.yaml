@@ -13,15 +13,8 @@ intro:
 
 about:
   header: About Us
-  left:
-    header: Salt
-    text: >
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ac efficitur enim. Aenean quis
-      elit porttitor, imperdiet massa quis, elementum leo. Vivamus tempor, lectus mollis dignissim
-      faucibus, augue turpis imperdiet magna, in fermentum ex augue ac neque. 
-  right:
-    header: Pepper
-    text: >
+  hero:
+    text: > 
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ac efficitur enim. Aenean quis
       elit porttitor, imperdiet massa quis, elementum leo. Vivamus tempor, lectus mollis dignissim
       faucibus, augue turpis imperdiet magna, in fermentum ex augue ac neque. 

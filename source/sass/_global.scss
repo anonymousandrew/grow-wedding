@@ -1,5 +1,13 @@
 body {
-  background: $color-bg;
-  color: $color-fg;
   font-family: $font-family;
+}
+
+// Overrides
+.mdl-layout__header {
+  background-color: $primary-color;
+}
+
+.mdl-tabs__tab .mdl-tabs__ripple-container .mdl-ripple,
+.mdl-tabs.is-upgraded .mdl-tabs__tab.is-active:after {
+  background-color: $secondary-color;
 }
